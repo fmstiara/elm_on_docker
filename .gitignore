@@ -1,0 +1,12 @@
+
+# Created by https://www.gitignore.io/api/elm,node
+# Edit at https://www.gitignore.io/?templates=elm,node
+
+### Elm ###
+# elm-package generated files
+elm-stuff
+# elm-repl generated files
+repl-temp-*
+
+elm/node_modules
+elm/package-lock.json

@@ -5,6 +5,5 @@ services:
     volumes:
       - ./elm:/elm
     working_dir: /elm/frontapp
-    command: ["elm-app", "start"]
     ports:
       - "3000:3000"
